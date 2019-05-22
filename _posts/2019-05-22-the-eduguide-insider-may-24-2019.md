@@ -16,5 +16,5 @@ post_date: 2019-05-22 20:20:53
 [insert page='register-path-comments-as-viewed' display='title','content']
 <h2>Glossary</h2>
 [insert page='new-comment-indicator' display='title','content']
-<h2>FAQs</h2>
-[insert page='q-what-is-the-pd-path' display='title','content'']
+
+== 30 ==
