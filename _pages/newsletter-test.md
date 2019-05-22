@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2019-05-22 16:21:37
 ---
-[insert page='manually-clearing-the-new-indicator-in-students-paths' display='all' public]
+<p>[insert page='manually-clearing-the-new-indicator-in-students-paths' display='full-width-template.php']</p>
